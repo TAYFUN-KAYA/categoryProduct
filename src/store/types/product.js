@@ -1,0 +1,3 @@
+export const PRODUCT_ACTION = {
+  SET_PRODUCT: 'SET_PRODUCT',
+};
